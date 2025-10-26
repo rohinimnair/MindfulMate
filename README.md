@@ -9,7 +9,7 @@ In today’s fast-paced world, many people—especially students and working pro
 
 ---
 
-## 💖 Our Solution
+## 💖 Solution
 MindfulMate encourages daily self-care through:
 - 🧘 Mindfulness exercises & affirmations  
 - 😊 Mood tracking & reflections  
